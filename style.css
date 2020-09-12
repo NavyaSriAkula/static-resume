@@ -1,0 +1,77 @@
+.main{
+display: flex;
+flex-direction: row;
+margin-top: 10px;
+margin-bottom: 10px;
+margin-right: 10px
+}
+.greybg{
+border:solid;
+height:115vh;
+width:800px;
+margin-left: 10px;
+margin-right: 10px;
+background-color: lightgrey;
+}
+.image{
+text-align: center;
+}
+.yellowbg{
+border:solid;
+height:115vh;
+width:800px;
+margin-right: 200px;
+background-color: lightgrey;
+}
+.first{
+text-align: center;
+border: solid;
+width: 300px;
+height: 100px;
+margin-top: 60px;
+margin-left: 50px;
+}
+.fis{
+text-align: center;
+height: 50px;
+width: 50px;
+}
+.second{
+text-align: center;
+border: solid;
+width: 300px;
+height: 140px;
+margin-top: 60px;
+margin-left: 50px;
+}
+.sec{
+height: 100px;
+width: 100px;
+}
+.info{
+margin-top: 60px;
+margin-left: 20px;
+}
+.tab{
+margin-top: 30px;
+margin-left: 20px;
+}
+.profile{
+height: 200px;
+width: 200px;
+margin-top: 20px;
+border-radius: 50%;
+}
+.Achiv{
+margin-top: 30px;
+margin-left: 20px;
+}
+.personal{
+margin-top: 30px;
+margin-left: 20px;
+}
+.declare{
+margin-top: 20px;
+margin-left: 20px;
+}
+}
